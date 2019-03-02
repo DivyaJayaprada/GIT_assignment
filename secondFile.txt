@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 UserB
+=======
+UserA
+>>>>>>> c906b9f32fe96d616300be61ce894b10018bb47d
 This is the initial contents
 of the second file that comprises
 our most excellent project.
